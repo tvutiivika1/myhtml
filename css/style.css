@@ -1,0 +1,133 @@
+.container-1{
+    width: 300px;
+    vertical-align: middle;
+    position: relative;
+}
+
+.container-1 input{
+    width: 300px;
+    height: 50px;
+    background: #2b303b;
+    border: none;
+    font-size: 10pt;
+    float: left;
+    color: #63717f;
+    padding-left: 45px;
+    -webkit-border-radius:5px;
+    -moz-border-radius: 5px;
+  border-radius: 5px;
+
+}
+
+.container-1 input#search::-webkit-input-placeholder {
+   color: #65737e;
+}
+ 
+.container-1 input#search:-moz-placeholder { /* Firefox 18- */
+   color: #65737e;  
+}
+ 
+.container-1 input#search::-moz-placeholder {  /* Firefox 19+ */
+   color: #65737e;  
+}
+ 
+.container-1 input#search:-ms-input-placeholder {  
+   color: #65737e;  
+}
+
+.block{
+    width: 221px;
+    height: 573px;
+    background-color: #1a1c1ec7;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 30px;
+}
+
+.readable {
+   background-color: #d87641;
+    font-weight: bold;
+    padding: 1px 10px;
+    border-radius: 30px;
+    }
+.readable h1{
+    margin: 15px 12px 16px 58px
+}
+
+    .button {
+        width: auto;
+        height: 39px;
+        background: #d87641;
+        color: #1a1a2e;
+        font-family: 'IBM Plex Sans', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        border-radius: 8px;
+        padding: 12px 44px;
+        transition: all 0.3s ease;
+        cursor: pointer;
+        display: inline-flex;
+        user-select: auto;
+        position: relative;
+        overflow: hidden;
+        align-items: center;
+        justify-content: center;
+        line-height: 1;
+      }
+      
+      .button:hover {
+        transform: translateY(-3px);
+        background: #955b65;
+        color: #ffffff;
+      }
+      
+      .button:active {
+        transform: scale(0.96);
+      }
+
+      .fon{
+        width: 1886px;
+        height: 941px;
+        background-color: #333339;
+      }
+
+    .zag{
+        background-color: #d87641;
+    font-weight: bold;
+    padding: 1px 800px;
+    border-radius: 30px;
+    }
+    .zag h1{
+    margin: 15px 12px 16px 58px
+}
+
+.b{
+    width: 200px;
+    height: 100px;
+    background-color: #955b65;
+}
+
+.parent {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+    
+}
+
+.blockl {
+    width: 1000px;
+    height: 414px;
+    position: absolute;
+    top: 43%;
+    left: 39%;
+    margin: -236px 0 0 -223px;
+    background-color: #615759;
+    border-radius: 30px;
+}
+
+
+   
+
+      
